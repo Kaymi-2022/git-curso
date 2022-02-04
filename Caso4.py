@@ -7,6 +7,7 @@ def IngresoMuseo():
         resp='SI INGRESA AL MUSEO'
     
     print('USTED ',resp)
+    print('*************************')
 
 print(esp)
 IngresoMuseo()
